@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Juan David!
-- 💻 I’m a developer and systems engineering student at Universidad Industrial de Santander, Colombia.
+- 💻 I’m a software engineering student at Universidad Industrial de Santander, Colombia.
 - 📫 Feel free to reach me at juandavidrey@icloud.com!
 
 <!---
