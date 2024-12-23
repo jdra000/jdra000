@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Juan David!
-- 💻 I’m a software engineering student based in Colombia.
-- 📫 Feel free to reach me at juandavidrey@icloud.com!
+I’m a software enthusiast focused on enhancing my workflow and developing high-quality projects that benefit everyone.
 
 <!---
 jdra000/jdra000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
